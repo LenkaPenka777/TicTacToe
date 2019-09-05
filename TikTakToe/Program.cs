@@ -24,6 +24,9 @@ namespace TikTakToe
 
         static bool CheckEnd(char[,] game)
         {
+            for(int i = 0; i < SIZE; i++)
+            {
+            }
             return true;
 
         }
