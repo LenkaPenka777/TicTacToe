@@ -24,17 +24,18 @@ namespace TikTakToe
 
         static bool CheckEnd(char[,] game)
         {
+            return true;
 
         }
 
         static bool CheckWin(char[,] game, char player)
         {
-
+            return true;
         }
 
         static bool CheckStep(char[,] game, int x, int y)
         {
-
+            return true;
         }
 
         static void Main(string[] args)
